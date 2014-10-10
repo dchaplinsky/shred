@@ -9,4 +9,9 @@ as you want, cut under random position and angle.
 This shreds can be then used to test features detectors (think base line angle detection, lines fragment detection)
 of unshred project.
 
-Dear @xa4a and @fednep, this little is for you :)
+### Requirements
+In addition to stuff from requirements.txt script also relies on OpenCV (2.4.9+)
+Use your package manager to get a copy
+
+### Acknowledgments
+Dear @xa4a and @fednep, this little script is for you :)
